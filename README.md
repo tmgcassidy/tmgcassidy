@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @tmgcassidy
-- 👀 I’m interested in Machine Translation
-- 🌱 I’m currently learning Information Security Policy & Management
 - 💞️ I’m not currently looking to collaborate
-- 📫 How to reach me https://www.linkedin.com/in/thomas--cassidy/
